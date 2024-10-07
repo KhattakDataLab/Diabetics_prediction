@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Diabetes Prediction Project
 Overview
 This project aims to predict whether an individual is likely to have diabetes based on health parameters. The dataset is analyzed, and a machine learning model is trained to perform the predictions.
@@ -20,3 +21,7 @@ Data Preprocessing: Handled missing values, normalized features, and performed t
 Exploratory Data Analysis (EDA): Analyzed data using visualizations to identify trends and correlations.
 Model Building: Built and trained different models such as Logistic Regression, Decision Trees, and Random Forest.
 Model Evaluation: Evaluated models using metrics like accuracy, precision, recall, and F1-score.
+=======
+# Diabetics_prediction
+Diabetes Prediction Project: A machine learning model to predict diabetes based on health parameters. Includes data preprocessing, feature engineering, model training, and evaluation. The project is documented with explanations, code comments, 
+>>>>>>> 2a5f62771eef50a02aa7b42d6aecea2cd171877a
